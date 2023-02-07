@@ -7,7 +7,7 @@ This repositories is a jQuery Course Practice that learned from Udemy.
 1. JavaScript frameworks
 2. jQuery effects and animations - fade in, fade out, show, hide, slide up, slide down, move, delay, callback functions...
 3. jQuery element selectors
-4.Manipulate DOM
+4. Manipulate DOM
 5. Handlers - click, hover, mouse event...
 6. Ajax with jQuery - Flickr API, Pokemon API
 
